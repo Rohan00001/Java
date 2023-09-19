@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class methode_overloading {
+public class method_overloading {
     public static void main(String args[]){
         System.out.println(addNumbers(2.,5));
         System.out.println(addNumbers(2.64,5.564));
